@@ -1,0 +1,11 @@
+C:\Users\AntonioEduardo\source\repos\AULAS\Acessment_Azure\AzGetTodos [Atual]\Infra\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\AntonioEduardo\source\repos\AULAS\Acessment_Azure\AzGetTodos [Atual]\Infra\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\AntonioEduardo\source\repos\AULAS\Acessment_Azure\AzGetTodos [Atual]\Infra\bin\Release\netcoreapp3.1\Infra.deps.json
+C:\Users\AntonioEduardo\source\repos\AULAS\Acessment_Azure\AzGetTodos [Atual]\Infra\bin\Release\netcoreapp3.1\Infra.dll
+C:\Users\AntonioEduardo\source\repos\AULAS\Acessment_Azure\AzGetTodos [Atual]\Infra\bin\Release\netcoreapp3.1\Infra.pdb
+C:\Users\AntonioEduardo\source\repos\AULAS\Acessment_Azure\AzGetTodos [Atual]\Infra\obj\Release\netcoreapp3.1\Infra.csproj.AssemblyReference.cache
+C:\Users\AntonioEduardo\source\repos\AULAS\Acessment_Azure\AzGetTodos [Atual]\Infra\obj\Release\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Users\AntonioEduardo\source\repos\AULAS\Acessment_Azure\AzGetTodos [Atual]\Infra\obj\Release\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\Users\AntonioEduardo\source\repos\AULAS\Acessment_Azure\AzGetTodos [Atual]\Infra\obj\Release\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache
+C:\Users\AntonioEduardo\source\repos\AULAS\Acessment_Azure\AzGetTodos [Atual]\Infra\obj\Release\netcoreapp3.1\Infra.dll
+C:\Users\AntonioEduardo\source\repos\AULAS\Acessment_Azure\AzGetTodos [Atual]\Infra\obj\Release\netcoreapp3.1\Infra.pdb

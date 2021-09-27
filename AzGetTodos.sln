@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzGetTodos", "AzGetTodos\Az
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "Infra\Infra.csproj", "{07BBE409-C054-44F8-B055-2BD4DFD6301C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoo.MVC", "ToDoo.MVC\ToDoo.MVC.csproj", "{F7FD86CE-7EBC-479F-BBDB-595371FC6F20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{07BBE409-C054-44F8-B055-2BD4DFD6301C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07BBE409-C054-44F8-B055-2BD4DFD6301C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07BBE409-C054-44F8-B055-2BD4DFD6301C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FD86CE-7EBC-479F-BBDB-595371FC6F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FD86CE-7EBC-479F-BBDB-595371FC6F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FD86CE-7EBC-479F-BBDB-595371FC6F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FD86CE-7EBC-479F-BBDB-595371FC6F20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
